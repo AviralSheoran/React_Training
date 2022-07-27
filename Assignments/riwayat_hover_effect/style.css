@@ -1,0 +1,19 @@
+.container {
+    border: 1px solid ;
+    height: 500px;
+    margin : 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+body {
+    margin : 0px;
+    padding: 0px;
+}
+
+img  {
+    display: flex;
+    width: 13%;
+    height: 300px;
+}
